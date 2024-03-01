@@ -1,1 +1,1 @@
-# Python.Grade-Consolidation.App
+# Python.Grade-Consolidation.App faculty project to manage student grades
